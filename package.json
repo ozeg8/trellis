@@ -1,0 +1,12 @@
+{
+  "name": "trellis-local",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A local Trello-style workspace with durable data and no external services.",
+  "engines": { "node": "^22.0.0 || ^24.0.0 || ^26.0.0" },
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test server.test.mjs"
+  }
+}

@@ -1,0 +1,18 @@
+.gitignore
+GITHUB-YUKLEME.md
+PUBLISH_FILES.txt
+README.md
+SECURITY.md
+docs/rea-investigation.md
+docs/validation.md
+package.json
+public/app.js
+public/icon.svg
+public/index.html
+public/model.js
+public/style.css
+server.mjs
+server.test.mjs
+start.cmd
+Yerel uygulama.url
+tests/browser.test.mjs
